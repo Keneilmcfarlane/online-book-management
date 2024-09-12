@@ -1,8 +1,8 @@
 # Online Booking NextJs Template: Chisfis
 
-Welcome to **Chisfis**, a responsive Nextjs template theme tailored for Online booking, Listing, Real Estate, and booking systems. Whether you're running an accommodation service, travel experience, cruise, car rental, real estate, or a travel agency, Chisfis has got you covered.
+Welcome to **.fis**, a responsive Nextjs template theme tailored for Online booking, Listing, Real Estate, and booking systems. Whether you're running an accommodation service, travel experience, cruise, car rental, real estate, or a travel agency, .fis has got you covered.
 
-![Chisfis Banner](https://i.ibb.co/JqPfydC/b-landing.png) 
+
 
 ## 🌟 Features
 
@@ -39,4 +39,4 @@ A big shoutout to all the libraries, plugins, and assets that made this project 
 
 ---
 
-Crafted with ❤️ by [Hamed Hasan](https://github.com/Hamed-Hasan). Connect with me on [LinkedIn](https://www.linkedin.com/in/hamed-hasan).
+Crafted with ❤️ by [Keneil Mcfarlane](https://github.com/Keneilmcfarlane).
